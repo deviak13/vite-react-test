@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 
-const BASE_URL = "https://mythic-benefit-371318.rj.r.appspot.com/";
+const BASE_URL = "https://fastapi1-382416.rj.r.appspot.com/";
 
 function App() {
   const [msg, setMsg] = useState("");
